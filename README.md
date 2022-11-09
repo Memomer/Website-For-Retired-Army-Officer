@@ -4,5 +4,11 @@ During a brain-storming session with one of my good friend, we had an Idea to ma
 
 We wanted to build 3 important components for the website->
 
-##The landing/home page for 
+#The landing/home-page with different kinds of jobs.
+
+#Web-page for each domain/job.
+
+
+#Get a mentor webpage for army men who have no clue about how to start
+  -> registration page 
 
