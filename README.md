@@ -10,5 +10,5 @@ We wanted to build 3 important components for the website->
 
 
 #Get a mentor webpage for army men who have no clue about how to start
-  -> registration page 
-
+  -> registration page for anyone who wants apply as a mentor( mostly people who will benefit from contributing)
+  -> its kinda like open source
