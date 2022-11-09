@@ -13,3 +13,7 @@ We wanted to build 3 important components for the website->
   -> registration page for anyone who wants apply as a mentor( mostly people who will benefit from contributing)
   -> its kinda like open source
   -> integrate backend to frontend so registered mentor are verified and added to our frontend.
+
+
+
+-> So, basically the website contains 3 UI's one for army men, one for the mentors. and the last containing all the organizations interested
