@@ -4,12 +4,12 @@ During a brain-storming session with one of my good friend, we had an Idea to ma
 
 We wanted to build 3 important components for the website->
 
-#The landing/home-page with different kinds of jobs.
+### The landing/home-page with different kinds of jobs.
 
-#Web-page for each domain/job.
+### Web-page for each domain/job.
 
 
-#Get a mentor webpage for army men who have no clue about how to start
+### Get a mentor webpage for army men who have no clue about how to start
   -> registration page for anyone who wants apply as a mentor( mostly people who will benefit from contributing)
   -> its kinda like open source
   -> integrate backend to frontend so registered mentor are verified and added to our frontend.
